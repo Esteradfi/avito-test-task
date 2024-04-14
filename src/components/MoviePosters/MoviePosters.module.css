@@ -1,0 +1,7 @@
+.image {
+    min-width: 100%;
+    max-width: 100%;
+    aspect-ratio: 211/316;
+    object-fit: cover;
+    transition: 0.3s ease;
+}
